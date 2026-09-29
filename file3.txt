@@ -1,1 +1,2 @@
 FINALLY...I PUSH ALL THE CONTENT FROM MY LOCAL REPO TO MY GITHUB REPO...Yeeyyy
+now i trying git fetch
