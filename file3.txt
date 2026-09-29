@@ -1,3 +1,1 @@
-hy
-my name is devops
-and i am pursing synnefo solutions at nafil
+FINALLY...I PUSH ALL THE CONTENT FROM MY LOCAL REPO TO MY GITHUB REPO...Yeeyyy
